@@ -15,7 +15,12 @@ ReactDOM.render(
    title="About me"
    text="I am Oscar Medrano, I have experience with web development, especially with HTML, CSS and JavaScript , also I have knowledge in Bootstrap, Node.js, Mongo.DB and React. "
    />
-    < Skill  / >
+    < Skill
+     skill1="HTML"
+     skill2="CSS"
+     skill3="JavaScript"
+     skill4="React"
+   / >
    </div> ,
      container
      )
