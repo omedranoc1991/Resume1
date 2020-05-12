@@ -1,6 +1,6 @@
 import React from "react";
 
-fucntion PersonalInfomation () {
+function PersonalInformation () {
 
 return <h1>Peronal Information</h1>
 
