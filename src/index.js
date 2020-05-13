@@ -3,7 +3,8 @@ import ReactDOM from "react-dom";
 import Resume from "./components/Resume"
 import Skill from "./components/Skill"
 import images from "./images/oscar.png"
-
+import Projects from "./components/Projects"
+import Test from "./components/test"
 
 
 const container = document.getElementById("root")
@@ -21,6 +22,9 @@ ReactDOM.render(
      skill3="JavaScript"
      skill4="React"
    / >
+
+   < Projects  />
+   < Test />
    </div> ,
      container
      )

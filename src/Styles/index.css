@@ -12,7 +12,19 @@
     float: left;
     width: 65%;
     margin-left: 10%;
+    
 }
 .bottom{
+    
+   
     clear: both;
+    float: left;
+    margin-left: 2%;
+}
+
+.pro{
+    float: left;
+    margin-left: 8%;
+    margin-top: 5px;
+    
 }
